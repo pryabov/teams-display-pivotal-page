@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "teams-display-pivotal-app"
+    }
+  },
+  "defaultProject": "teams-display-pivotal-app",
+  "cli": {
+    "analytics": "7e734c60-fec2-43ea-8c1e-a7ad6dc31f6a"
+  }
 }
